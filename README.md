@@ -12,4 +12,7 @@ ts-node main.ts -c 1000 -d 120 -t 10 example.com
 ```
 
 
-😅Made this project a while ago, while cleaning the disk discovered it, decided it would be nice to share it😅
+P.s 😅Made this project a while ago, while cleaning the disk discovered it, decided it would be nice to share it. There is a lot of room for improvement:
+- add workers support
+- possibly change request strategy
+- implement HTTPS/TLS support
